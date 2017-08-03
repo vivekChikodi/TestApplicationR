@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: TestAppR
+  host: TestAppR
+  disk_quota: 1024M
